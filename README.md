@@ -1,6 +1,7 @@
 <div align="center">
- <img width=84% src="https://github.com/user-attachments/assets/f90ca19a-a2e8-45a4-93fe-48ac5deb7969" />
+ <img width=100% src="https://github.com/user-attachments/assets/240e8149-bb37-4c7f-bd8f-b20c0c37914e" />
 </div>
+
 <hr />
 <div align="center">
   <img width=34% src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheEduar&layout=donut&theme=transparent" />
